@@ -1,4 +1,3 @@
-Create Proyecto vinos.png
-
+![Cover Image](Proyecto vinos.png)
 # Vinos
  
