@@ -1,3 +1,3 @@
-![Cover Image](Proyecto vinos.png)
+![Cover Image](Proyecto vinos.jpg)
 # Vinos
  
